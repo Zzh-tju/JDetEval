@@ -1,8 +1,13 @@
 ## 粤港澳大湾区（黄埔）国际算法算力大赛-遥感图像目标检测赛道-评测使用说明
 
-<img src="pic/01.png" height="220" align="middle"/>
+曙光超算平台，进入控制台，选择产品-异构计算，我这里申请的是华北一区【雄衡】
+
+<img src="pic/00.png" height="300" align="middle"/>
+
 
 ### 1. 添加镜像
+
+<img src="pic/01.png" height="220" align="middle"/>
 
 第一步，见上图红色方框
 
