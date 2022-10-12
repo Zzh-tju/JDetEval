@@ -28,9 +28,12 @@
 
 ### 3. 运行容器
 
-<img src="pic/08.png" height="220" align="middle"/>
-
 上图红色方框为运行，蓝色方框为运行后的SSH打开终端，进入docker
 
-### 4. 准备测试集
+### 4. 准备训练集与测试集
 
+此处示例为576张后缀为.tif的测试集。
+
+<img src="pic/08.png" height="220" align="middle"/>
+
+训练集图片我这里随便放30张FAIRM-2.0的训练集图像在`/images`中，对应的30个标签在`/labelXml`中
