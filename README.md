@@ -10,7 +10,7 @@
 
 文件选择选手的.tar文件，这里我将名称设为“jittor”
 
-<img src="pic/03.png" height="220" align="middle"/>
+<img src="pic/03.png" height="400" align="middle"/>
 
 添加成功
 
