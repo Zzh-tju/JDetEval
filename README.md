@@ -11,7 +11,7 @@
 
 <img src="pic/01.png" height="220" align="middle"/>
 
-第一步，见上图红色方框
+见上图红色方框
 
 <img src="pic/02.png" height="400" align="middle"/>
 
