@@ -34,6 +34,24 @@
 
 此处示例为576张后缀为.tif的测试集。
 
-<img src="pic/08.png" height="220" align="middle"/>
+<img src="pic/08.png" height="300" align="middle"/>
 
 训练集图片我这里随便放30张FAIRM-2.0的训练集图像在`/images`中，对应的30个标签在`/labelXml`中
+
+### 5. 数据预处理
+
+数据集图像分辨率很大，选手大多需要提前裁剪图像，生成裁剪后的图像以及对应的标签文件。
+
+首先进入root用户
+```
+sudo su root
+```
+
+再依次运行以下命令：
+```
+cd /
+
+cd root/player # 进入选手的文件夹
+```
+
+
