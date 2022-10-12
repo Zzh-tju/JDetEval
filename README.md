@@ -20,11 +20,11 @@
 
 选择镜像版本为你刚刚添加的镜像，这里示例为“jittor:jittor”
 
-<img src="pic/05.png" height="220" align="middle"/>
+<img src="pic/05.png" height="400" align="middle"/>
 
 创建成功
 
-<img src="pic/07.png" height="220" align="middle"/>
+<img src="pic/07.png" height="160" align="middle"/>
 
 ### 3. 运行容器
 
